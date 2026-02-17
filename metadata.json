@@ -1,0 +1,19 @@
+{
+    "title": "Exercise: Numeric Type Conversions",
+    "slug": "exercise-python-numeric-type-conversions",
+    "description": "Practice converting between int and float types using int, float, and round functions. Includes rounding to a specified number of decimal places using round, and handling negative numbers.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "exercise"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "python-numeric-type-conversions"
+    ],
+    "related": [
+        "sample-solution-python-numeric-type-conversions"
+    ]
+}
