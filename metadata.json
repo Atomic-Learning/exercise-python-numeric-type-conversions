@@ -9,7 +9,7 @@
         "python",
         "exercise"
     ],
-    "duration": 4,
+    "duration": 6,
     "prerequisites": [
         "python-numeric-type-conversions"
     ],
