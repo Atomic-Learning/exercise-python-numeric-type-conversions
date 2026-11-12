@@ -85,7 +85,7 @@ Click below to reveal a sample solution
 > print(new_float)
 > ```
 >
-> ## Answers to Question
+> ## Answers to Questions
 >
 > * `int()`{.python} truncates towards zero, whilst `round()`{.python} rounds to the nearest integer.
 > * `round()`{.python} always rounds to the nearest number. `int()`{.python} will round down for positive numbers and up for negative numbers (both toward zero).
