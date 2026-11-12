@@ -9,11 +9,10 @@
         "python",
         "exercise"
     ],
-    "duration": 6,
+    "duration": 10,
     "prerequisites": [
         "python-numeric-type-conversions"
     ],
     "related": [
-        "sample-solution-python-numeric-type-conversions"
     ]
 }
